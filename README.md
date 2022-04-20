@@ -1,16 +1,12 @@
 # counter
+뜨개질 단수세기용 카운터
 
-counter toy project
+# 플러터 연습용 프로젝트
+## 요구사항
+- [ ] +,- 버튼으로 카운터 차감
+- [ ] 그 카운터 저장하고 있어야함
+- [ ] 여러개의 카운터를 만들 수 있어야함
+- [ ] 목표 cm와 게이지 콧수를 입력하면 목표 cm까지 몇단을 떠야하는지 계산하는 기능
+- [ ] 카운터 삭제 기능
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+만들수 있나...............
